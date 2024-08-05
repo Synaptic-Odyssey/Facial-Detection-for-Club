@@ -95,7 +95,7 @@ while True:
 
             print(f"Compatibility: {compatibility:.2f}%")
             print("EXTREMELY COMPATIBLE")
-            print("JOIN PROGRAMMING CLUB")
+            print(f"JOIN {club} CLUB")
 
             # webcam.release()
             # cv2.destroyAllWindows()
